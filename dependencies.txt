@@ -1,0 +1,2 @@
+pip install PySide6 playwright google-genai pydantic pdfplumber
+playwright install chromium
